@@ -1,0 +1,4 @@
+pytorch
+pandas 
+tqdm
+Pillow
