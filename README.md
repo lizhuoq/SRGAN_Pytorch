@@ -4,7 +4,7 @@ This project is an implementation based on the [SRGAN](https://github.com/leftth
 `pip install requirements.txt`  
 ## Datsets  
 ### Train, Val Dataset  
-The train and val datasets are sampled from VOC2012. Train dataset has 16700 images and Val dataset has 425 images. Download the datasets from [here](https://drive.google.com/file/d/1q7C50ysB6c_MDUpX1BrQNB8VpuVqXyTe/view?usp=sharing). Then put the training dataset into the `data/DIV2K_train_HR` folder and place the validation dataset into the `data/DIV2K_valid_HR` folder.  
+The train and val datasets are sampled from VOC2012. Train dataset has 16700 images and Val dataset has 425 images. Download the datasets from [here](https://drive.google.com/file/d/1q7C50ysB6c_MDUpX1BrQNB8VpuVqXyTe/view?usp=sharing)(Google Drive Link). Then put the training dataset into the `data/DIV2K_train_HR` folder and place the validation dataset into the `data/DIV2K_valid_HR` folder.  
 ## Usage  
 Create two empty folders and name them `epochs` and `statistics` respectively.  
 Train  
