@@ -1,5 +1,5 @@
 # SRGAN  
-This project is an implementation based on the [SRGAN](https://github.com/leftthomas/SRGAN) project with some modifications. It provides model weights trained for 100 epochs with a 4x upscaling factor on the VOC2012 dataset.
+This project is an implementation based on the [SRGAN](https://github.com/leftthomas/SRGAN) project with some modifications. I provides model weights trained for 100 epochs with a 4x upscaling factor on the VOC2012 dataset.
 ## Requirments  
 `pip install requirements.txt`  
 ## Datsets  
